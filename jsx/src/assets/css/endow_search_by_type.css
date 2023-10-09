@@ -19,7 +19,7 @@ img {
 }
 
 .box-endow {
-    max-width: 1210px;
+    max-width: 1240px;
     margin: auto;
 }
 
@@ -248,7 +248,7 @@ img {
 /* tìm theo loại chỗ nghỉ */
 
 .search-by-type {
-    max-width: 1210px;
+    max-width: 1240px;
     margin: auto;
 }
 
@@ -266,6 +266,7 @@ img {
 
 .search-by-type_box h1 {
     font-size: 25px;
+    font-weight: 600;
     margin-bottom: 10px;
 }
 
